@@ -1,4 +1,4 @@
-# fructus-repo
+# Fructus
 
 Educational app for fruits
 
